@@ -40,3 +40,5 @@ Outcome:
 
  * Strengthened skills in data analysis, dashboard creation, and visualization storytelling.
 
+   So what here is how my dashboard looks like -- ![alt_text](https://github.com/Shivay-7677/Madhav-Sales-Dashboard/blob/main/BIscreenshot.png)
+
